@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/MadBirdDeceptionl-master.dia",
+    "emit-module-dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/MadBirdDeceptionl-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/MadBirdDeceptionl-master-emit-module.dia",
+    "swift-dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/MadBirdDeceptionl-master.swiftdeps"
+  },
+  "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/MadBirdDeceptionl/AppDelegate.swift" : {
+    "const-values" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/MadBirdDeceptionl/GameScene.swift" : {
+    "const-values" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameScene.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameScene.d",
+    "diagnostics" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameScene.dia",
+    "index-unit-output-path" : "/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameScene.o",
+    "llvm-bc" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameScene.bc",
+    "object" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameScene.o",
+    "swift-dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameScene.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameScene~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/MadBirdDeceptionl/GameViewController.swift" : {
+    "const-values" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameViewController.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameViewController.d",
+    "diagnostics" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameViewController.dia",
+    "index-unit-output-path" : "/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameViewController.o",
+    "llvm-bc" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameViewController.bc",
+    "object" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameViewController.o",
+    "swift-dependencies" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameViewController.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/build/MadBirdDeceptionl.build/Debug-iphonesimulator/MadBirdDeceptionl.build/Objects-normal/arm64/GameViewController~partial.swiftmodule"
+  }
+}

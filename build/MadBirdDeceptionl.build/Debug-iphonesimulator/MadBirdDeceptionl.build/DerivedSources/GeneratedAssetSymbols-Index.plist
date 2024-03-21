@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/MadBirdDeceptionl/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackground</string>
+			<key>relativePath</key>
+			<string>./background.imageset</string>
+			<key>swiftSymbol</key>
+			<string>background</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/MadBirdDeceptionl/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBird</string>
+			<key>relativePath</key>
+			<string>./bird.imageset</string>
+			<key>swiftSymbol</key>
+			<string>bird</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/MadBirdDeceptionl/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBrick</string>
+			<key>relativePath</key>
+			<string>./brick.imageset</string>
+			<key>swiftSymbol</key>
+			<string>brick</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/murad/Desktop/Projelerim-Swift/MadBirdDeceptionl/MadBirdDeceptionl/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTree</string>
+			<key>relativePath</key>
+			<string>./tree.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tree</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
